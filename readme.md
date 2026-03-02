@@ -24,7 +24,7 @@ This repository contains data analysis projects developed using SQL, focused on 
   Analysis of video game sales and Metacritic review data using joins, aggregations, and set-based comparisons to identify the top-selling games and the highest-rated years by critics and users.  
   **Skills:** PostgreSQL, SQL joins, aggregations, set operations, trend analysis, exploratory data analysis.
 
-  - **Project 5: [Grocery Store Sales](projects/grocery_store_sales)**  
+- **Project 5: [Grocery Store Sales](projects/grocery_store_sales)**  
   Data cleaning and analytical exploration of FoodYum’s product database to ensure data quality and evaluate pricing distribution across product categories. The project includes missing value handling, median imputation, categorical standardization, aggregation analysis, and conditional filtering to support inventory and pricing decisions.
   **Skills:** PostgreSQL, data cleaning, missing value handling (COALESCE), median calculation (PERCENTILE_DISC), data transformation, aggregation (MIN/MAX), grouping, conditional filtering, analytical reasoning.
 
