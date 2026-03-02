@@ -1,6 +1,6 @@
 # 📊 Data Analysis Portfolio (SQL)
 
-This repository contains data analysis projects developed using SQL and Python, focused on data exploration, aggregation, and insight generation to support decision-making. The projects use real-world datasets and simulate practical analytical scenarios.
+This repository contains data analysis projects developed using SQL, focused on data exploration, aggregation, and insight generation to support decision-making. The projects use real-world datasets and simulate practical analytical scenarios.
 
 ---
 
